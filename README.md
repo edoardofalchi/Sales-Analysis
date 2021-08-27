@@ -22,4 +22,5 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Using groupby to perform aggregate analysis
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
-
+---
+Click [here](https://nbviewer.jupyter.org/github/edoardofalchi/Sales-Analysis/blob/main/SalesAnalysis/SalesAnalysis.ipynb) to directly jump into the rendered final notebook results.
